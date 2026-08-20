@@ -1,0 +1,8 @@
+{
+  "label": "host",
+  "values": [
+    {"description": "app-01", "value": "192.0.2.10"},
+    {"description": "app-02", "value": "192.0.2.11"},
+    {"description": "db-01", "value": "192.0.2.12"}
+  ]
+}
